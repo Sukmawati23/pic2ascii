@@ -4,7 +4,7 @@
 
 PIC2ASCII is a lightweight Python-based ASCII Art Generator that transforms ordinary images into text-based artwork directly from your terminal.
 
-Pick an image, choose your preferred size and style, and let PIC2ASCII turn it into ASCII Art — then save your creation as a .txt file.
+Pick an image, choose your preferred size and style, and let PIC2ASCII turn it into ASCII Art then save your creation as a .txt file.
 
 ## Features
 
