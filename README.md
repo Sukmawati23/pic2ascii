@@ -10,16 +10,8 @@ Pick an image, choose your preferred size and style, and let PIC2ASCII turn it i
 
 - Convert images into ASCII Art
 - Automatically detect images from the images folder
-- Choose from 3 ASCII sizes:
-  - Small
-  - Medium
-  - Large
-
-- Choose from 3 ASCII styles:
-  - Classic
-  - Minimal
-  - Blocks
-
+- Choose from 3 ASCII sizes: Small, Medium, Large
+- Choose from 3 ASCII styles: Classic, Minimal, Blocks
 - Preview ASCII Art directly in the terminal
 - Automatically save generated ASCII Art as a .txt file
 - Simple interactive terminal interface
