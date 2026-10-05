@@ -32,15 +32,7 @@ Pick an image, choose your preferred size and style, and let PIC2ASCII turn it i
 ## How It Works
 
 ```text
-Image
-  ↓
-Resize
-  ↓
-Grayscale
-  ↓
-Pixel Mapping
-  ↓
-ASCII Art
+Image --> Resize --> Grayscale --> Pixel Mapping --> ASCII Art
 ```
 
 PIC2ASCII analyzes the brightness of each pixel and maps it to different characters to create the final ASCII artwork.
